@@ -1,0 +1,23 @@
+PODS:
+  - CocoaLumberjack (3.3.0):
+    - CocoaLumberjack/Default (= 3.3.0)
+    - CocoaLumberjack/Extensions (= 3.3.0)
+  - CocoaLumberjack/Default (3.3.0)
+  - CocoaLumberjack/Extensions (3.3.0):
+    - CocoaLumberjack/Default
+  - PureLayout (3.0.2)
+  - SVGKit (1.2.0):
+    - CocoaLumberjack
+
+DEPENDENCIES:
+  - PureLayout (~> 3.0.2)
+  - SVGKit
+
+SPEC CHECKSUMS:
+  CocoaLumberjack: 3c8c74683302f9012bb168e1c4b7ae3c0b558431
+  PureLayout: 4d550abe49a94f24c2808b9b95db9131685fe4cd
+  SVGKit: 267d38d3db13ca62dc52f09b4738cb440f83c4c6
+
+PODFILE CHECKSUM: 33b7f5bd5330b5e761c12dd8b17a5b77cf41d618
+
+COCOAPODS: 1.3.1
